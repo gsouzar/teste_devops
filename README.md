@@ -64,3 +64,4 @@ npm start teste_devops
 
 * **Nome do Autor 1** – GitHub: @cristiansvieira
 * **Nome do Autor 2** – GitHub: @gsouzar
+* * **Nome do Autor 2** – GitHub: @l9ww
