@@ -54,7 +54,10 @@ npm start teste_devops
 📦 teste_devops
  ┣ 📂 src
  ┣ 📂 docs
+ ┣ 📂 Imagens
+ ┣ 📜 .gitignore
  ┣ 📜 README.md
+ ┣ 📜 SEGURITY.md
  ┗ 📜 teste.html
 ```
 
